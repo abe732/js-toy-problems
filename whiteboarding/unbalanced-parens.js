@@ -1,0 +1,1 @@
+// Implement a "balanced parentheses” function that checks to see if parentheses, brackets and curly braces are balanced so that it will not throw errors.
